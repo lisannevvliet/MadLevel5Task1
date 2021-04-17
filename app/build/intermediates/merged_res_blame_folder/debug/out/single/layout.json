@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_add_note.xml",
+        "source": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/src/main/res/layout/fragment_add_note.xml"
+    },
+    {
+        "merged": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_notepad.xml",
+        "source": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/src/main/res/layout/fragment_notepad.xml"
+    },
+    {
+        "merged": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/lisannevanvliet/AndroidStudioProjects/MadLevel5Task1/app/src/main/res/layout/activity_main.xml"
+    }
+]
